@@ -130,7 +130,7 @@ Para implementar el sistema en instalaciones del cliente o en la nube:
 
 Esta propuesta combina una inversión inicial accesible con una cuota mensual que garantiza operación continua, hosting profesional y acompañamiento técnico. El objetivo es claridad total sobre qué está pagando y qué valor recibe en cada componente.
 
-### 6.1 Inversión Única de Puesta en Marcha – $500.000 COP
+### 6.1 Inversión Única de Puesta en Marcha – $400.000 COP
 
 La **Inversión Única de Puesta en Marcha** cubre:
 
@@ -240,4 +240,5 @@ R: Sí, el sistema permite exportar reportes e información en formatos estánda
 ---
 
 *Propuesta válida por 30 días a partir de la fecha de emisión.*
+
 
