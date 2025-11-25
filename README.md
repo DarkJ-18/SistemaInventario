@@ -19,13 +19,15 @@ El corazón del sistema permite un control total sobre el stock mediante:
 
 - **Dashboard Interactivo:** Visualización rápida de métricas clave y gráficos de rendimiento en tiempo real para apoyar la toma de decisiones.
 
-![Panel de Control - Métricas y Gráficos](capturas/Panel_de_Control_Metricas_y_Graficos.jpg)
+![Panel_de_Control_Metricas_y_Graficos](https://github.com/user-attachments/assets/1b0b78a6-52fe-4ad3-b28f-abd6219e432d)
+
 
 - **Catálogo de Productos y Categorías:** Creación, edición y categorización eficiente de productos para mantener el inventario organizado.
 
-![Listado de Productos](capturas/Products.jpg)
+![Listado de Productos](https://github.com/user-attachments/assets/028e1470-2de0-491d-b41a-64cf3b2caa6f)
 
-![Gestión de Categorías](capturas/Categories.jpg)
+![Gestión de Categorías](https://github.com/user-attachments/assets/10258d3a-8615-46c5-abbc-d437d70de620)
+
 
 - **Alertas de Stock:** Monitoreo visual para prevenir desabastecimientos y anticipar compras.
 
@@ -35,11 +37,13 @@ Control financiero detallado de las operaciones de compra y venta:
 
 - **Registro de Ventas:** Flujo rápido para registrar salidas de mercancía, calculando automáticamente totales e impuestos.
 
-![Historial de Ventas](capturas/Sales.jpg)
+![Historial de Ventas](https://github.com/user-attachments/assets/f84dca94-98a1-41cb-87a2-f9d5edaec040)
+
 
 - **Registro de Compras:** Control de entradas de proveedores y costos para mantener el inventario actualizado.
 
-![Registro de Compras](capturas/Purchases.jpg)
+![Registro de Compras](https://github.com/user-attachments/assets/1347b32e-047a-450e-95ae-d218742519ae)
+
 
 - **Historial de Movimientos:** Trazabilidad completa de cada movimiento de mercancía y sus documentos asociados.
 
@@ -49,7 +53,8 @@ Gestión interna de documentación comercial:
 
 - **Generación de Documentos de Venta:** Creación de documentos internos para control de ventas con cálculo automático de precios, totales e impuestos.
 
-![Creación de Documentos](capturas/Invoices.jpg)
+![Creación de Documentos](https://github.com/user-attachments/assets/2b1e7397-d266-49ed-bd2c-1fdc7ddda0a4)
+
 
 > ⚠️ **IMPORTANTE - Aclaración Legal:**  
 > Los documentos generados por este sistema son **únicamente para control interno y visualización**. NO constituyen facturas electrónicas legales ni cumplen con los requisitos de facturación fiscal establecidos por la DIAN u otras autoridades tributarias.  
@@ -64,13 +69,16 @@ Seguridad y organización de los actores del sistema:
 
 - **Gestión de Personal:** Administración de empleados con diferentes roles y niveles de acceso.
 
-![Gestión de Personal](capturas/profiles.jpg)
+![Gestión de Personal](https://github.com/user-attachments/assets/709d51c2-4208-4395-90db-b862089c67dc)
+
 
 - **Base de Datos de Clientes y Proveedores:** Registro centralizado de información de contacto y relaciones comerciales.
 
-![Listado de Clientes](capturas/customers.jpg)
+![Listado de Clientes](https://github.com/user-attachments/assets/f8b55073-54ad-4a3a-b8f6-67c49ad26a03)
 
-![Gestión de Proveedores](capturas/vendors.jpg)
+
+![Gestión de Proveedores](https://github.com/user-attachments/assets/b835f086-0000-43cd-b04c-a634ee9a90bf)
+
 
 
 ---
@@ -232,3 +240,4 @@ R: Sí, el sistema permite exportar reportes e información en formatos estánda
 ---
 
 *Propuesta válida por 30 días a partir de la fecha de emisión.*
+
